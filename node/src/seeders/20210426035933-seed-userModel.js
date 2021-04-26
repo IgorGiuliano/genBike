@@ -12,23 +12,23 @@ module.exports = {
      * }], {});
     */
      return queryInterface.bulkInsert('userModels', [{
-      name: 'Snoop',
-      email: 'snoopydog@dogpound.com',
-      password: 'sad1fa324',
+      name: 'Jones',
+      email: 'jones@gmail.com',
+      password: 'saad1a324',
       genbikehash: 'dGkt64mq9yM4kkh5',
       createdAt: new Date().toDateString(),
       updatedAt: new Date().toDateString()
     }, {
-      name: 'asd',
-      email: 'snoopydog@dogpound.com',
-      password: 'sad1fa324',
+      name: 'Azalea',
+      email: 'azalea@gmail.com',
+      password: 'sa3251a324',
       genbikehash: 'dGkt64mq9yM4kkh5',
       createdAt: new Date().toDateString(),
       updatedAt: new Date().toDateString()
     }, {
-      name: 'Sngadfoop',
-      email: 'snoopydog@dogpound.com',
-      password: 'sad1fa324',
+      name: 'Ganifar',
+      email: 'ganifar@gmail.com',
+      password: 'sad3461gasa324',
       genbikehash: 'dGkt64mq9yM4kkh5',
       createdAt: new Date().toDateString(),
       updatedAt: new Date().toDateString()
